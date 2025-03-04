@@ -60,6 +60,7 @@ notaic/
 │   │   └── unit/         # Unit tests
 │   └── [More details in backend/README.md]
 │
+├── demos/
 └── README.md             # This file
 ```
 
