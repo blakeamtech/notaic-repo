@@ -6,7 +6,7 @@
 
 Notaic is a sophisticated email automation and management platform built with FastAPI. It provides user authentication, email processing, and subscription management capabilities through a robust REST API.
 
-## 🚀 Features
+## Features
 
 - **Authentication & Authorization**
   - User registration and email verification
@@ -30,13 +30,13 @@ Notaic is a sophisticated email automation and management platform built with Fa
   - CORS protection
   - API rate limiting
 
-## 📋 Prerequisites
+## Prerequisites
 
 - Python 3.8 or higher
 - pip (Python package manager)
 - Virtual environment (recommended)
 
-## 🛠️ Installation
+## Installation
 
 1. Clone the repository:
    ```bash
@@ -76,7 +76,7 @@ Notaic is a sophisticated email automation and management platform built with Fa
    # Add other required environment variables
    ```
 
-## 🚀 Running the Application
+## Running the Application
 
 1. Start the FastAPI server:
    ```bash
@@ -87,7 +87,7 @@ Notaic is a sophisticated email automation and management platform built with Fa
    - Swagger UI: `http://localhost:8000/docs`
    - ReDoc: `http://localhost:8000/redoc`
 
-## 🧪 Testing
+## Testing
 
 The project includes both unit tests and end-to-end tests:
 
@@ -102,7 +102,7 @@ pytest tests/e2e/
 pytest --cov=app tests/
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 NotaicBackend/
@@ -121,7 +121,7 @@ NotaicBackend/
 └── requirements.txt    # Project dependencies
 ```
 
-## 🔒 Security
+## Security
 
 - CORS is configured to allow only specific origins
 - Rate limiting is implemented to prevent abuse
@@ -129,13 +129,13 @@ NotaicBackend/
 - Secure password hashing
 - Environment variable management for sensitive data
 
-## 📝 API Documentation
+## API Documentation
 
 The API documentation is automatically generated and can be accessed at:
 - `/docs` - Swagger UI documentation
 - `/redoc` - ReDoc documentation
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/improvement`)
@@ -144,11 +144,11 @@ The API documentation is automatically generated and can be accessed at:
 5. Push to the branch (`git push origin feature/improvement`)
 6. Create a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
+## Contact
 
 For any questions or concerns, please open an issue in the GitHub repository.
 

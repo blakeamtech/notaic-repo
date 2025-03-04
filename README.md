@@ -1,4 +1,4 @@
-# 🚀 Notaic - Email Automation Platform
+# Notaic - Email Automation Platform
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115.2-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.13-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -6,9 +6,11 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-## 🎥 Demo
+## Demo
 
-https://github.com/blakeamtech/notaic/blob/main/demos/Notaic%20Demo.mp4
+<div align="center">
+  <img src="demos/notaic-gif.gif" alt="Notaic Demo" width="800"/>
+</div>
 
 Notaic is a sophisticated email automation and management platform that helps users streamline their email workflows through AI-powered classification, automation, and intelligent processing.
 
@@ -76,7 +78,7 @@ For detailed documentation:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/notaic.git
+   git clone https://github.com/blakeamtech/notaic.git
    cd notaic
    ```
 
