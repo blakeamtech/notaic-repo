@@ -6,10 +6,13 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-## Demo
-
 <div align="center">
-  <img src="demos/notaic-gif.gif" alt="Notaic Demo" width="800"/>
+  <img 
+    src="demos/notaic-gif.gif" 
+    alt="Notaic Demo" 
+    width="800" 
+    style="border-radius: 8px; border: 2px solid #000;"
+  />
 </div>
 
 Notaic is a sophisticated email automation and management platform that helps users streamline their email workflows through AI-powered classification, automation, and intelligent processing.
