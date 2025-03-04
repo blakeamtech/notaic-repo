@@ -60,7 +60,6 @@ notaic/
 │   │   └── unit/         # Unit tests
 │   └── [More details in backend/README.md]
 │
-├── docker-compose.yml     # Docker composition for local development
 └── README.md             # This file
 ```
 
